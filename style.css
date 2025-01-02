@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-title{
+    color: orangered;
+    font-size: 15px;
+    line-height: normal;
+    text-align: right;
+    justify-content: right;
+}
+b{
+    color: orangered;
+    font-size: 20px;
+}
+#main-body{
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.Card1{
+    font-size: 30px;
+    border-radius: 10px;
+    min-height: 250px;
+    /*border-bottom: 4px solid rgb(74, 7, 151);*/
+    width: 420px;
+    object-fit: cover;
+   
+}
+
+.CardTitle{
+    height: 350px;
+    /* padding: 3px; */
+    background-color:whitesmoke;
+    font-size: 50px;
+    color: rgb(241, 41, 41);
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    border-radius: 25px;
+    /* background-size: contain;
+    background-image: url("landingpage.png");
+    border-image-width: 50px;
+*/}
+dt{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+ 
+}
+dd{
+    color: grey;
+    font-weight: 200;
+    font-size: 20px;
+}
+.CardTitle1{
+    height: 350px;
+    /* padding: 5px; */
+    background-color:hsl(0, 1%, 28%);
+    font-size: 30px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px; 
+    
+  
+}
+.CardTitle2{
+    height: 350px;
+    background-color: grey;
+    font-size: 30px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+   
+}
+.CardTitle img{
+    border-radius: 20px ;
+    width: 100%;
+}
+.CardTitle1 img{
+    border-radius: 20px;
+    width: 100%;
+}
+.CardTitle2 img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+
+   
+   
+
