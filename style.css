@@ -24,7 +24,7 @@ b{
     font-size: 30px;
     border-radius: 10px;
     min-height: 250px;
-    /*border-bottom: 4px solid rgb(74, 7, 151);*/
+   
     width: 420px;
     object-fit: cover;
    
@@ -32,7 +32,7 @@ b{
 
 .CardTitle{
     height: 350px;
-    /* padding: 3px; */
+    
     background-color:whitesmoke;
     font-size: 50px;
     color: rgb(241, 41, 41);
@@ -40,10 +40,8 @@ b{
     justify-content: center;
     align-items: normal;
     border-radius: 25px;
-    /* background-size: contain;
-    background-image: url("landingpage.png");
-    border-image-width: 50px;
-*/}
+    
+}
 dt{
     color:black;
     font-weight: bold;
